@@ -25,21 +25,28 @@ In this project I used the data from The Numbers, Disney, and IMDB which contain
 
 The first analysis shows the ROI% of the top 8 genres according to the data. The graph shows that due to the outliers, especially in comedy and romance, the first 3 genres in animation, sci-fi and adventure show the most even ROI% and don’t contain any outliers.  
 
+![genres roi](https://user-images.githubusercontent.com/113871039/199240246-d94fcfa8-cdc0-4f6d-9434-7d1d5f850607.png)
+
+
  
 
 I also checked out the total profit by season to show when the best time would be to premiere a movie. We all know our favorite movies, but do we know when exactly to premiere? With this being Microsoft's beginning stages in the industry its prominent to start off on the right foot.  
 
- 
+ ![totalprofit season](https://user-images.githubusercontent.com/113871039/199240312-523fd5f4-6728-4fb8-bdd0-cff8a5241da8.png)
+
 
 # What does our competition look like? 
 
 Next I showed the difference in the top studios and their worldwide gross showed in billions. This gives us the notion that this is a lucrative field as long as you produce great, unique content. Disney tops the competition by no surprise and also shows that more folks lean towards the movies that Disney produces rather than the tv shows.   
+
+![topstudiogross](https://user-images.githubusercontent.com/113871039/199240338-c40951a5-4c75-4837-829c-b2d77e4fca13.png)
 
  
 
 I also dove into the data to show the type of genres Disney does well in. The data coincides with the recommendations above that family, animation and adventure is  where Disney makes their big bucks.  
 
  
+![disneygenres](https://user-images.githubusercontent.com/113871039/199240385-c8a80103-6bdd-4e4a-8b2b-b201bcbf22df.png)
 
  
 
